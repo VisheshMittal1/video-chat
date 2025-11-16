@@ -1,4 +1,4 @@
-Video Chat App
+  Video Chat App
 - A real-time video chat application using React, Node.js, Socket.IO, and WebRTC. Users can video call and chat directly via web browser—no signup required!
 
   Features
@@ -7,7 +7,7 @@ Video Chat App
 - Fast and responsive user interface
 - Simple room join system (auto-join or link-share)
 
- Tech Stack
+  Tech Stack
 - Frontend: ReactJS (JavaScript, HTML, CSS)
 - Backend: Node.js, Express.js, Socket.IO
 - Peer Connection: WebRTC
