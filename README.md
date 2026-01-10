@@ -16,7 +16,7 @@
 Installation & Running
 1. Clone the repository
 text= 
-git clone https://github.com/visheshmittial/video-chat.git
+git clone https://github.com/visheshmittal/video-chat.git
 cd video-chat
 
 2. Install backend dependencies
